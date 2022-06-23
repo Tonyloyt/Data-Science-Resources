@@ -6,7 +6,7 @@ This repo is special to provide direction and the resources on learning data sci
 **Data scientists:** analyze raw data by using statistical and mathematical techniques, and computing. This may include filtering and processing data to reach meaningful interpretations and conclusions, and creating solutions.
 
 
-**Responsibilities:***
+**Responsibilities:**
 
 - Identify valuable data sources and automate collection processes
 - Undertake preprocessing of structured and unstructured data
